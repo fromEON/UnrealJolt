@@ -18,7 +18,7 @@ Plugin that brings [Jolt Physics](https://github.com/jrouwe/JoltPhysics) into un
 - There are possibilities of breaking changes, until 1.0.0 at least. (will try to avoid)
 
 ## Projects Using UnrealJolt
-[Xhaust](https://store.steampowered.com/app/5364060/Xhaust/): A combat racing game making use of UnrealJolt for client-side prediction, server reconciliation, and rollback/resimulation under a server-authoritative networking model.
+[Xhaust](https://store.steampowered.com/app/5364060?utm_source=unrealjolt): A combat racing game making use of UnrealJolt for client-side prediction, server reconciliation, and rollback/resimulation under a server-authoritative networking model.
 
 ### Requirements
 
